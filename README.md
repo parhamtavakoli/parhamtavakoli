@@ -103,3 +103,14 @@ Open-source bioinformatics platform for genomics and biotechnology.
 - Scientific visualization
 
 ➡️ Repository: https://github.com/parhamtavakoli/SharkGenoPro
+## 📫 Connect with Me
+
+- 💼 LinkedIn: Coming Soon
+- 🌐 Portfolio: Coming Soon
+- 📧 Email: Coming Soon
+- ## 🎯 2026 Goals
+
+- 🚀 Build professional open-source projects
+- 🧬 Advance in Bioinformatics
+- 💻 Contribute to the open-source community
+- 🤖 Develop AI tools for Life Sciences
