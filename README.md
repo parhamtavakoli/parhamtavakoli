@@ -85,3 +85,21 @@ Professional open-source projects in:
 - ## 👀 Profile Views
 
 ![](https://komarev.com/ghpvc/?username=parhamtavakoli&color=blueviolet&style=for-the-badge)
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=parhamtavakoli&theme=tokyonight&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+## 📈 Contribution Graph
+
+[![Parham's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=parhamtavakoli&theme=tokyo-night)](https://github.com/parhamtavakoli)
+## 🚀 Featured Projects
+
+### 🧬 SharkGenoPro
+Open-source bioinformatics platform for genomics and biotechnology.
+
+**Highlights**
+- Sequence analysis
+- Bioinformatics toolkit
+- Python & PySide6
+- Scientific visualization
+
+➡️ Repository: https://github.com/parhamtavakoli/SharkGenoPro
